@@ -11,5 +11,13 @@
   "dependencies": {
     "axios": "^0.18.0",
     "slackbots": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayavc/kanye-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinayavc/kanye-bot/issues"
+  },
+  "homepage": "https://github.com/vinayavc/kanye-bot#readme"
 }
