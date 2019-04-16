@@ -1,0 +1,15 @@
+{
+  "name": "kanyebot",
+  "version": "1.0.0",
+  "description": "slackbot that gives random kanye jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vinaya Chandiramani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
