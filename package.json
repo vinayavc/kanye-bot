@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/vinayavc/kanye-bot/issues"
   },
-  "homepage": "https://github.com/vinayavc/kanye-bot#readme"
+  "homepage": "https://github.com/vinayavc/kanye-bot#readme",
+  "devDependencies": {}
 }
